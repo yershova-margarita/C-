@@ -1,0 +1,15 @@
+C:\Users\Rita\С#\Lsn1\bin\Debug\net6.0\Lsn1.exe
+C:\Users\Rita\С#\Lsn1\bin\Debug\net6.0\Lsn1.deps.json
+C:\Users\Rita\С#\Lsn1\bin\Debug\net6.0\Lsn1.runtimeconfig.json
+C:\Users\Rita\С#\Lsn1\bin\Debug\net6.0\Lsn1.dll
+C:\Users\Rita\С#\Lsn1\bin\Debug\net6.0\Lsn1.pdb
+C:\Users\Rita\С#\Lsn1\obj\Debug\net6.0\Lsn1.csproj.AssemblyReference.cache
+C:\Users\Rita\С#\Lsn1\obj\Debug\net6.0\Lsn1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rita\С#\Lsn1\obj\Debug\net6.0\Lsn1.AssemblyInfoInputs.cache
+C:\Users\Rita\С#\Lsn1\obj\Debug\net6.0\Lsn1.AssemblyInfo.cs
+C:\Users\Rita\С#\Lsn1\obj\Debug\net6.0\Lsn1.csproj.CoreCompileInputs.cache
+C:\Users\Rita\С#\Lsn1\obj\Debug\net6.0\Lsn1.dll
+C:\Users\Rita\С#\Lsn1\obj\Debug\net6.0\refint\Lsn1.dll
+C:\Users\Rita\С#\Lsn1\obj\Debug\net6.0\Lsn1.pdb
+C:\Users\Rita\С#\Lsn1\obj\Debug\net6.0\Lsn1.genruntimeconfig.cache
+C:\Users\Rita\С#\Lsn1\obj\Debug\net6.0\ref\Lsn1.dll
