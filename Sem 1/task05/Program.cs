@@ -5,9 +5,15 @@ Console.WriteLine("Введите натуральное число");
 int userNum = Convert.ToInt32(Console.ReadLine());
 if (userNum > 0)
 {
-    for (int i = -userNum; i <= userNum; i++)
+    // for (int i = -userNum; i <= userNum; i++)
+    // {
+    //     Console.Write($"{i}, ");
+    // }
+    int count = -userNum;
+    while (count <= userNum)
     {
-        Console.Write($"{i}, ");
+        Console.Write($"{count}, ");
+        count++;
     }
 }
 else
