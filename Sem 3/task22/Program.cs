@@ -4,12 +4,12 @@
 квадратов чисел от 1 до N.
 */
 
-void SqrtTable(int n) 
+void SqrtTable(int n)
 {
-    for (int i = 1; i <= n; i++) 
+    for (int i = 1; i <= n; i++)
     {
-        double sqrt = Math.Pow(i,2);
-        Console.WriteLine($"{i}  {sqrt}");
+        double sqrt = Math.Pow(i, 2);
+        Console.WriteLine($"{i,3} {sqrt,5}"); //форматирование вывода
     }
 }
 
