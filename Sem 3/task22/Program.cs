@@ -16,7 +16,7 @@ void SqrtTable(int n)
 Console.WriteLine("Введите науральное число : ");
 int userNum = Convert.ToInt32(Console.ReadLine());
 
-if (userNum <= 0)
+if (userNum < 1)
 {
     Console.WriteLine("Вы ввели не натуральное число, повторите ввод");
 }
