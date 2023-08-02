@@ -9,12 +9,17 @@
 int FactorialOfNumbers(int num)
 {
     int fact = 1;
-    for (int i = 1; i <= num; i++)
+    // for (int i = 1; i <= num; i++)
+    // {
+    //     checked        // работа с исключениями, чтобы не выйти за разрядность сетки
+    //     {
+    //         fact *= i; // fact = fact * i;
+    //     }
+    // }
+    while (num !=0 )
     {
-        checked        // работа с исключениями, чтобы не выйти за разрядность сетки
-        {
-            fact *= i; // fact = fact * i;
-        }
+        fact *= num;
+        num --;
     }
     return fact;
 }
