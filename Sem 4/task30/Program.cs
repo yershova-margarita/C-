@@ -6,10 +6,11 @@
 */
 
 void FillArray(int[] arr)
-{
+{   
+    Random rand = new Random();
     for (int i = 0; i < arr.Length; i++)
     {
-        arr[i] = new Random().Next(0, 2);
+        arr[i] = rand.Next(0, 2);
         Console.Write(arr[i] + " ");
     }
 }
