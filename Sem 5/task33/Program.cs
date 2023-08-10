@@ -43,4 +43,6 @@ Console.WriteLine();
 Console.WriteLine("Введите число");
 int userNum = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine(SearchElemInArray(array, userNum) ? "да" : "нет");
+bool result = SearchElemInArray(array, userNum);
+
+Console.WriteLine(result ? "да" : "нет");
